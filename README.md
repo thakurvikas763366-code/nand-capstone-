@@ -47,6 +47,6 @@ Click the emulator window, hold any key to show the box, and release it to erase
 - The included Python emulator is a small teaching/demo emulator for the box program. Part A's official HDL verification and Part C's required CPU Emulator screenshot should still be done in the official Nand2Tetris tools when available.
 - Set your real K before generating `Box.asm`; K=0 is only a safe starter placeholder, not your personalised submission.
 # SUBMITTED BY :
-NIKHIL SINGH
-
+Vikash Singh
+2501730395
 BTECH CSE AI&ML [Sec-F]
