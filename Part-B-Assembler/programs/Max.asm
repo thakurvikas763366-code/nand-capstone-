@@ -1,0 +1,21 @@
+// Stores the larger of RAM[0] and RAM[1] in RAM[2].
+@0
+D=M
+@1
+D=D-M
+@OUTPUT_FIRST
+D;JGT
+@1
+D=M
+@2
+M=D
+@END
+0;JMP
+(OUTPUT_FIRST)
+@0
+D=M
+@2
+M=D
+(END)
+@END
+0;JMP
